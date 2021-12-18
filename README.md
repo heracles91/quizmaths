@@ -28,7 +28,7 @@ Jade Gay
 Kévin KAMENI
 
 ## Précisions
-A chaque :
+### A chaque :
 ```php
 session_start();
 ```
@@ -36,7 +36,7 @@ cela signifie que le site ouvre une session qui nous servira à stocker des info
 ```php
 $_SERVER['username']
 ```
-Le fichier .htaccess avec des commandes comme :
+### Le fichier .htaccess avec des commandes comme :
 
 ```apache
 RewriteEngine On
